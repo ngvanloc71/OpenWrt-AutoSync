@@ -1,0 +1,9 @@
+*.ipk
+*.o
+*.swp
+*.log
+
+build/
+bin/
+dist/
+tmp/
